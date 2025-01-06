@@ -39,7 +39,7 @@
                      </a>
                  </li>
                  <li class="nav__item">
-                     <a href="" class="nav__link">
+                     <a href="../auth/logout.php" class="nav__link">
                          <i class=""></i>Logout</a>
                  </li>
                  <li class="nav__item">
